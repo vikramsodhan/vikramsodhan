@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 (He/Him)
 
-Currently a 2nd year undergraduate student at Simon Fraser University (SFU) majoring in computing science. I'm learning how to apply what I've learned in school to create my own personal projects. You can reach me at vikramjot12@gmail.com. 
+Currently a 2nd year undergraduate student at Simon Fraser University (SFU) majoring in computing science. I'm learning how to apply what I've learned in school to create my own personal projects. You can reach me at me@vikramsingh.ca. 
