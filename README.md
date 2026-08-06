@@ -1,19 +1,25 @@
-### Hi there 👋
+## Hi, I'm Vikram 👋
 
-<!--
-**vikramsodhan/vikramsodhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer in Vancouver, BC. BSc Computer Science, Simon Fraser University (2024).
 
-Here are some ideas to get you started:
+I'm currently the sole developer on Vantage Roofing's production sales platform — Next.js,
+TypeScript, and Supabase/PostgreSQL — which replaced a shared spreadsheet and is now the
+source of truth for 1,700+ quoted jobs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-(He/Him)
+### Vantage Roofing Sales Tracker
 
-Currently a 2nd year undergraduate student at Simon Fraser University (SFU) majoring in computing science. I'm learning how to apply what I've learned in school to create my own personal projects. You can reach me at me@vikramsingh.ca. 
+A public, fully working demo of that platform. Sign in as an owner, manager, or salesperson
+and the app changes around you. Every figure is randomly generated.
+
+**[▶ Open the live demo](https://vantage-roofing-project-demo.vercel.app)** · **[Source and engineering notes](https://github.com/vikramsodhan/Vantage-Roofing-Project-Demo)**
+
+Three-role access control enforced at four independent layers down to Postgres row-level
+security, 138 unit tests, 15 Playwright flows, and production deploys gated on CI.
+
+### Working with
+
+TypeScript · Next.js (App Router) · React · Node.js · PostgreSQL · Supabase · Python · AWS
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/vikramjot-sodhan/) · me@vikramsingh.ca
