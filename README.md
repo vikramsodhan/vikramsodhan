@@ -4,7 +4,7 @@ Full-stack software engineer in Vancouver, BC. BSc Computer Science, Simon Frase
 
 I'm currently the sole developer on Vantage Roofing's production sales platform — Next.js,
 TypeScript, and Supabase/PostgreSQL — which replaced a shared spreadsheet and is now the
-source of truth for 1,700+ quoted jobs.
+source of truth for 2,000+ quoted jobs.
 
 ### Vantage Roofing Sales Tracker
 
