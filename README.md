@@ -14,7 +14,7 @@ and the app changes around you. Every figure is randomly generated.
 **[▶ Open the live demo](https://vantage-roofing-project-demo.vercel.app)** · **[Source and engineering notes](https://github.com/vikramsodhan/Vantage-Roofing-Project-Demo)**
 
 Three-role access control enforced at four independent layers down to Postgres row-level
-security, 138 unit tests, 15 Playwright flows, and production deploys gated on CI.
+security, 144 unit tests, 18 Playwright flows, and production deploys gated on CI.
 
 ### Working with
 
